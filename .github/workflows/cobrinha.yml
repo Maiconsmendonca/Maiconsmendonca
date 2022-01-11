@@ -28,7 +28,7 @@ Latest commit d2470b3 on 29 May 2021
  1 contributor
 26 lines (22 sloc)  589 Bytes
    
-name: Generate Datas
+name: .github/workflows/cobrinha.yml
 
 on:
   schedule: # execute every 12 hours
