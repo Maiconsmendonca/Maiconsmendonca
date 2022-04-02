@@ -3,7 +3,7 @@ Olá Sou o Maicon Mendonça 👋
 </div>
 
 <div align="center">
-- 🔭 Hoje trabalho com Back-end - 🌱 Estudando PHP - 😄 Pronomes: ele/dele
+- 🔭 Hoje trabalho com Back-end - 🌱 Desenvolvedor PHP e GoLang - 😄 Pronomes: ele/dele
 </div>
 
 <div align="center" style="display: inline_block"><br>
