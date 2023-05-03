@@ -7,9 +7,7 @@ Olá Sou o Maicon Mendonça 👋
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/Maiconsmendonca">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Maiconsmendonca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "118em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Maiconsmendonca&layout=compact&langs_count=7&theme=dracula" />
+  Sou um desenvolvedor apaixonado pelo que faço e acredito que o trabalho deve ser prazeroso e desafiador. Meu lema é "quem faz o que gosta vive de férias". Com 2 anos e 5 meses de experiência em desenvolvimento de aplicações web, já atuei tanto no Backend quanto no Frontend, utilizando diversas tecnologias como PHP, JQuery, HTML/CSS3, SQL Server e MySQL. Tenho conhecimento nos frameworks como Laravel e Symfony e atualmente, estou focado em me aprofundar em programação orientada a eventos para desenvolver soluções mais eficientes e escaláveis. Busco um ambiente dinâmico, colaborativo e desafiador, onde eu possa colocar minhas habilidades em prática e contribuir para o sucesso da equipe.
 </div>
 
 <div align="center" style="display: inline_block"><br>
