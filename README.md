@@ -20,7 +20,4 @@ Olá Sou o Maicon Mendonça 👋
     <img align"center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
     <img align"center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
     <img align"center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-</div>
-  
-
-![Snake animation](https://github.com/Maiconsmendonca/Maiconsmendonca/blob/output/github-contribution-grid-snake.svg)  
+</div> 
